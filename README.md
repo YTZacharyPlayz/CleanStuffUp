@@ -1,3 +1,11 @@
 # CleanStuffUp
-This tool will help you to clean up your pc, from normal temporarily files to web cache.
-This is open source.
+This is one of the biggest batchfile project in GitHub
+
+### Release: 1.0
+
+This is the first version of CleanStuffUp.
+
+#### Features:
+Clear system and application junk files.
+
+### Dev Release: -
