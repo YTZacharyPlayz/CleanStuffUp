@@ -9,7 +9,7 @@ Clear system and application junk files.
 
 -Added 'Running as [USER] prompt at start of script
 
--Bug fixes & performance upgrade, deleted some 
+-Bug fixes & performance upgrade, deleted some un-used code that use space.
 
 -Anti-Virus
 
