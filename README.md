@@ -1,6 +1,8 @@
 # CleanStuffUp
 This is one of the biggest batchfile project in GitHub.
 
+Check for new releases on the panel next to this README.
+
 ## Features:
 Clear system and application junk files.
 
