@@ -6,23 +6,38 @@ Check for new releases on the panel next to this README.
 ## Features:
 Clear system and application junk files.
 
-## Release 1.1
--Removed Browser clean-up option due to error
+## Release 1.2
 
--Added 'Running as [USER] prompt at start of script
+#### -Added empty lines so it looks better
 
--Bug fixes & performance upgrade, deleted some un-used code that use space.
+#### -Tweeked unnecessary lines
 
--Anti-Virus
+#### -Added 'Update' section
 
-https://www.virustotal.com/gui/file/7395b5b7c3be9b4dca8a931c91ae67fc84cff8e262f9b8b99298ecaef2a6c534/summary
+#### -Added badges.
 
+#### -Added hidden settings. (Under development)
+
+#### -Added loading screen at the first second to stabilize system resources.
+
+
+VirusTotal: https://www.virustotal.com/gui/file/1a0a3d89a9d51c4666846125d7dc15d6f95aad0496b1388ae648b3c8d399783f?nocache=1
 ## Dev Release: None
 
 Please check later! :)
 
 ## Past Releases
 
+### Release 1.1
+
+##### -Removed Browser clean-up option due to error
+
+##### -Added 'Running as [USER] prompt at start of script
+
+##### -Bug fixes & performance upgrade, deleted some un-used code that use space.
+
+##### -Anti-Virus
+
 ### Release: 1.0
 
-#### This is the first version of CleanStuffUp.
+##### This is the first version of CleanStuffUp.
