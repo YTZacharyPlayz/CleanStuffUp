@@ -1,12 +1,3 @@
----
-name: Bug report
-about: Bug report to make CSU better
-title: ''
-labels: ''
-assignees: ''
-
----
-
 **Describe the bug**
 A clear and concise description of what the bug is.
 
